@@ -1,6 +1,6 @@
 # Krimmst_public
 
-Krimmst Krimmst is an intuitive meal planning and recipe regeneration app built with SwiftUI for iOS users. It empowers individuals to create balanced daily diets by selecting from a variety of recipes while tracking essential macronutrients like protein, carbohydrates, and fat.
+Krimmst is an intuitive meal planning and recipe regeneration app built with SwiftUI for iOS users. It empowers individuals to create balanced daily diets by selecting from a variety of recipes while tracking essential macronutrients like protein, carbohydrates, and fat.
 
 🍽️ What is Krimmst? 
 * Krimmst helps you: Plan your daily meals with ease.
